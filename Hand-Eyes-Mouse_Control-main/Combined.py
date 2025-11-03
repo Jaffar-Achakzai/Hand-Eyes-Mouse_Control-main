@@ -144,3 +144,4 @@ elif option == "Eye-Controlled Mouse":
     eye_controlled_mouse()
 elif option == "Visual Maths":
     visual_maths()
+#thankyou for your time and efforts!
