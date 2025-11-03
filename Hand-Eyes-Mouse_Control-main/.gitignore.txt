@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore any other files you don't want to upload
